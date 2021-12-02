@@ -1,4 +1,4 @@
-Slick2D-Main-Menu-Example
+Slick2D-Main-Menu-Example 
 =========================
 
 AUTHORS: Miikka Merikanto (miikka.merikantoATbusinesscollege.fi)
